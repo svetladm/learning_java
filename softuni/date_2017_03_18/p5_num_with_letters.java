@@ -28,10 +28,8 @@ public class p5_num_with_letters {
                 System.out.println("eight");
             } else if (num == 9) {
                 System.out.println("nine");
-            } else if (num == 10) {
-                System.out.println("ten");
             } else {
-                System.out.println("The number is too big.");
+                System.out.println("number too big");
             }
         }
         else {
