@@ -1,9 +1,9 @@
-package com.company;
+package date_2017_03_18;
 
 
 import java.util.Scanner;
 
-public class time_plus_15_minutes {
+class p14_time_plus_15_minutes {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

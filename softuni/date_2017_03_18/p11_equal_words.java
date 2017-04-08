@@ -1,9 +1,9 @@
-package com.company;
+package date_2017_03_18;
 
 import java.util.Scanner;
 
 
-public class equal_words {
+class p11_equal_words {
 
     public static void main(String[] args) {
 

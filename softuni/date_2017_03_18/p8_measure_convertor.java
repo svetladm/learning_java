@@ -56,4 +56,19 @@ public class p8_measure_convertor {
 
         System.out.println (measure + " " + output);
     }
+
+    static class p9_password_guess {
+        public static void main(String[] args) {
+            Scanner scan = new Scanner(System.in);
+
+            String text = scan.nextLine ();
+
+            if (text.equals("s3cr3t!P@ssw0rd")){
+                System.out.println("Welcome");
+            }
+            else{
+                System.out.println("Wrong p9_password_guess!");
+            }
+        }
+    }
 }

@@ -1,8 +1,8 @@
-package com.company;
+package date_2017_03_18;
 
 import java.util.Scanner;
 
-public class equal_numbers {
+class p15_equal_numbers {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner (System.in);

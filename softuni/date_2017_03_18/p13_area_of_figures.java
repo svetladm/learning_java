@@ -1,9 +1,9 @@
-package com.company;
+package date_2017_03_18;
 
 
 import java.util.Scanner;
 
-public class area_of_figures {
+class p13_area_of_figures {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner (System.in);

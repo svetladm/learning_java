@@ -1,8 +1,11 @@
-package com.company;
+package date_2017_03_18;
 
 import java.util.Scanner;
 
-class password {
+/**
+ * Created by svetlana on 8.4.2017 г..
+ */
+public class p9_password_guess {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
@@ -16,6 +19,3 @@ class password {
         }
     }
 }
-
-
-

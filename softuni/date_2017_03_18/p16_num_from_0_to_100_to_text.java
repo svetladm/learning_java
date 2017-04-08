@@ -1,8 +1,8 @@
-package com.company;
+package date_2017_03_18;
 
 import java.util.Scanner;
 
-public class num_to_words {
+class p16_num_from_0_to_100_to_text {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
