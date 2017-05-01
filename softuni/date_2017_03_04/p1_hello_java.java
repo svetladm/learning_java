@@ -1,4 +1,4 @@
-package date_2017_03_04;
+package learning_java.softuni.date_2017_03_04;
 
 
 public class p1_hello_java {
