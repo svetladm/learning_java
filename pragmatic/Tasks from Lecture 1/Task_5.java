@@ -1,12 +1,15 @@
+/**
+ * Enter three different numbers from console and print them in decreasing order.
+ */
+
 package com.company.Lecture_1;
 import java.util.Scanner;
 
 public class Task_5 {
-    public Task_5 (){
-    }
+
     public static void main (String [] args){
-        Scanner sc = new Scanner (System.in);
         System.out.println ("Please enter number A: ");
+        Scanner sc = new Scanner (System.in);
         int a = sc.nextInt ();
         System.out.println ("Please enter number B: ");
         int b = sc.nextInt ();

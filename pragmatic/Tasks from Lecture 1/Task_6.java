@@ -1,12 +1,15 @@
+/**
+ * Enter 3 numbers from keyboard a1, a2 and a3. Change their values, so a1 = a2, a2 = a3 and a3 = a1 (old value).
+ */
+
 package com.company.Lecture_1;
 import java.util. Scanner;
 
 public class Task_6 {
-    public Task_6 (){
-    }
+
     public static void main (String [] args){
-        Scanner sc = new Scanner (System.in);
         System.out.println ("Please enter a1: ");
+        Scanner sc = new Scanner (System.in);
         int a1 = sc.nextInt ();
         System.out.println ("Please enter a2: ");
         int a2 = sc.nextInt ();

@@ -1,12 +1,15 @@
+/**
+ * Enter two different numbers from console and change their values. Print their new values.
+ */
+
 package com.company.Lecture_1;
 import java.util.Scanner;
 
 public class Task_3 {
-    public Task_3 () {
-    }
+
     public static void main (String [] args){
-        Scanner sc = new Scanner (System.in);
         System.out.println ("Please enter number A:");
+        Scanner sc = new Scanner (System.in);
         int a = sc.nextInt ();
         System.out.println ("Please enter number B:");
         int b = sc.nextInt ();
